@@ -1,2 +1,7 @@
-# Programming_labs
+# Тут лабки
 Лабы для Агалакова (Лучшего человека на свете)
+
+
+        Для связи:
+                  - tg: t.me/ejilnk
+                  - discord: ejilnk
