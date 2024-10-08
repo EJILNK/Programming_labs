@@ -50,6 +50,11 @@ int main(){
     int i, n, p, m, pr, x;  i = 1; pr = 0; p = 2; x = 0;
     printf("Please, input n: ");
     scanf("%d",&n);
+    if (n < 2)
+    {
+        printf("Incorrect n \n");
+    }
+    
     while (i < n){
         i++;
         m = 2;
@@ -71,7 +76,9 @@ int main(){
         pr = 0;
         p++;
     }
+    if(n >= 2){
     printf("\n Total: %d", x);
+    }
     return 0;
 
 }
